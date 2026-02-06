@@ -26,3 +26,4 @@ except ZeroDivisionError:
     print("Divisão por zero não permitida")
 except ValueError:
     print("Entrada inválida")
+
